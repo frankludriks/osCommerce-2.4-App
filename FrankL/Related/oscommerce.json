@@ -1,0 +1,31 @@
+{
+    "title":     "Related Products",
+    "app":       "Related",
+    "vendor":    "FrankL",
+    "version":    "0.0.1",
+    "req_core_version":    "2.4",
+    "license":    "MIT",
+    "authors": [
+        {
+            "name":        "Frank Ludriks",
+            "company":    "osCar",
+            "email":    "frank@printzone.com.au",
+            "website":    "http://www.ink-cartridge.com.au"
+        }
+    ],
+    "modules": {
+        "AdminMenu": {
+            "Related":    "Module\\Admin\\Menu\\Related"
+        },
+        "Content": {
+            "product_info": {
+                "PIRELATED":    "Module\\Content\\PIRELATED"
+            }
+        }
+},
+    "routes": {
+        "Admin":    "Sites\\Admin\\Pages\\Home",
+        "Shop": {
+        }
+    }
+}

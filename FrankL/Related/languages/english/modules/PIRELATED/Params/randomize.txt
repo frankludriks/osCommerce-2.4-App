@@ -1,0 +1,4 @@
+cfg_related_randomize_title = Randomize Products
+cfg_related_randomize_desc = Adds random sort order to products displayed. Recommended if maximum number of products is set.
+cfg_related_randomize_true = Enabled
+cfg_related_randomize_disabled = Disabled

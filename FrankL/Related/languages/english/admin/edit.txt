@@ -1,0 +1,3 @@
+app_related_edit_title = Edit Related Product
+app_related_button_save = Save
+app_related_button_cancel = Cancel

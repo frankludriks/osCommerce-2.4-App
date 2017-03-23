@@ -1,0 +1,4 @@
+cfg_related_show_name_title = Show Product Name
+cfg_related_show_name_desc = Show product name in module?
+cfg_related_show_name_true = Enabled
+cfg_related_show_name_disabled = Disabled

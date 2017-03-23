@@ -1,0 +1,5 @@
+cfg_related_status_title = Status
+cfg_related_status_desc = Set this to Enabled to use the Product Info Page module.
+
+cfg_related_status_true = Enabled
+cfg_related_status_disabled = Disabled

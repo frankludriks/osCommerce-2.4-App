@@ -1,0 +1,4 @@
+module_admin_menu_title = Related Products
+module_admin_menu_install = Install
+module_admin_menu_configure = Configure
+module_admin_menu_admin = Admin

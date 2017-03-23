@@ -1,0 +1,24 @@
+app_related_options_title = Related Products Admin Options
+app_related_options_true = True
+app_related_options_false = False
+app_related_options_use_model = Use Model?
+app_related_options_use_model_desc = Use product model in lists. When product name or Id is also selected, product ID is displayed first.
+app_related_options_use_name = Use Name?
+app_related_options_use_name_desc = Use product name in lists. When product model or ID is also selected, product ID or model is displayed first.
+app_related_options_model_separator = Separator
+app_related_options_model_separator_desc = Enter the characters you would like to separate ID, model and name, when using 2 or 3. Leave empty if only using one.
+app_related_options_confirm_delete = Confirm delete?
+app_related_options_confirm_delete_desc = When set to True, a confirmation box will pop-up when deleting an association. Set to False to delete without confirmation.
+app_related_options_insert_and_inherit = Combine Insert with Inherit
+app_related_options_insert_and_inherit_desc = When set to True, clicking on Inherit will also Insert the product association. When False, Inherit works as before.
+app_related_options_max_rows_list_options = Maximum Rows
+app_related_options_max_rows_list_options_desc = Sets the maximum number of rows to display per page.
+app_related_options_max_name_length = Drop-Down List Maximum Length
+app_related_options_max_name_length_desc = Sets the maximum length (in characters) of product name displayed in drop-down lists. Enter 0 to set this option to false.
+app_related_options_max_display_length = Display List Maximum Length
+app_related_options_max_display_length_desc = Sets the maximum length (in characters) of product name displayed in list. Enter 0 to set this option to false.
+alert_credentials_saved_success = Configuration options saved
+
+
+
+

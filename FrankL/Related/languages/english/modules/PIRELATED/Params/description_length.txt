@@ -1,0 +1,2 @@
+cfg_related_description_length_title = Product Description Length
+cfg_related_description_length_desc = If Show Description is enabled what length should it be? (default = 250)

@@ -1,0 +1,4 @@
+onboarding_intro_title = Related Products
+onboarding_intro_body = <p>Manage related products and display in your store to drive further sales</p><p style="text-align: center;">{{button_install}}</p>
+
+button_install = Install Now

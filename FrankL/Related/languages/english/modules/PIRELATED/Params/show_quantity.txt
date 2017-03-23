@@ -1,0 +1,4 @@
+cfg_related_show_quantity_title = Show Product Quantity
+cfg_related_show_quantity_desc = Show product quantity in module?
+cfg_related_show_quantity_true = Enabled
+cfg_related_show_quantity_disabled = Disabled

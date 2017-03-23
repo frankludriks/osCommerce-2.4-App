@@ -1,0 +1,4 @@
+cfg_related_show_model_title = Show Model
+cfg_related_show_model_desc = Show model number in module?
+cfg_related_show_model_true = Enabled
+cfg_related_show_model_disabled = Disabled

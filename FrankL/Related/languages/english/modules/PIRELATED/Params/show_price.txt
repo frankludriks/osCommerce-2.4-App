@@ -1,0 +1,4 @@
+cfg_related_show_price_title = Show Product Price
+cfg_related_show_price_desc = Show product price in module?
+cfg_related_show_price_true = Enabled
+cfg_related_show_price_disabled = Disabled

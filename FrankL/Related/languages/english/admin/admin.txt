@@ -1,0 +1,46 @@
+app_related_admin_heading_title = Related Products
+app_related_admin_table_heading_model = Model
+app_related_admin_select_product = Select Product
+app_related_admin_show_all = Show All
+app_related_admin_table_heading_rel_id = ID
+app_related_admin_table_heading_product = Product
+app_related_admin_table_heading_related = Related
+app_related_admin_table_heading_new = New Product Relation
+app_related_admin_table_heading_order = Sort Order 
+app_related_admin_table_heading_action = Action
+app_related_admin_table_heading_master_products = Master Product
+app_related_admin_table_heading_slave_products = Slave Product
+app_related_admin_button_insert = Insert
+app_related_admin_button_reciprocate = Reciprocate
+app_related_admin_button_inherit = Inherit
+app_related_admin_title_maintenance = Maintenance
+app_related_admin_title_maintenance_desc = Delete orphan products from related products table.
+app_related_admin_button_maintenance = Delete orphans
+app_related_mini_instructions = <strong>Insert</strong> makes a master with a slave - the master product will show the slave as a related product on it's product page       <i class="fa fa-arrows-h"></i>        <strong>Reciprocate</strong> means the two products are both master and slave of each other        <i class="fa fa-arrows-h"></i>        <strong>Inherit</strong> means the product in the master column inherits all the product relations from the product in the slave column.        <i class="fa fa-arrows-h"></i>        <strong>Sort order</strong> is the order you want to show the products in the content module (if you haven't enabled Randomization)
+app_related_admin_delete = Delete
+app_related_admin_edit = Edit
+app_related_admin_confirm_delete = Are you sure you wish to delete this item?
+app_related_button_options = Options
+app_related_select_master = Select Master
+app_related_select_slave = Select Slave
+app_related_sort_order = Sort Order
+app_related_button_insert = Insert
+app_related_button_reciprocate = Reciprocate
+app_related_button_inherit = Inherit
+app_related_button_delete = Delete
+app_related_button_edit = Edit
+app_related_dialog_related_delete_title = Delete the <strong>{{master}}</strong> relationship with it's slave?
+app_related_dialog_related_delete_body = This will delete the the relationship with {{slave}} (cannot be undone)
+alert_product_added_success = Added new related product
+alert_product_added_failure = These products are already related
+alert_product_added_success_inherit = Inherited Related Products
+alert_product_added_success_reciprocate = Reciprocated Related Products
+alert_product_removed_success = Removed relationship between {{master}} (master) and {{slave}} (slave)
+alert_product_removed_falure = Failed to remove relationship between {{master}} (master) and {{slave}} (slave)
+alert_product_edit_success = Updated {{master}}
+alert_product_edit_failure = Failed to update {{master}}
+app_text_display_number_of_related = Displaying <strong>{{listing_from}}</strong> to <strong>{{listing_to}}</strong> (of <strong>{{listing_total}}</strong> related products)
+alert_app_not_installed = This app isn't installed yet.
+
+
+

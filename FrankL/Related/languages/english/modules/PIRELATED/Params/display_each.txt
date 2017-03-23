@@ -1,0 +1,2 @@
+cfg_related_display_each_title = Product Content Width
+cfg_related_display_each_desc = What width container should each product be shown in? (12 = full width, 6 = half width, default = 3)

@@ -1,0 +1,2 @@
+cfg_related_max_word_length_title = Maximum Word Length
+cfg_related_max_word_length_desc = Maximum number of characters in a single word in Product Name (fixes problems with some layouts, default = 40)

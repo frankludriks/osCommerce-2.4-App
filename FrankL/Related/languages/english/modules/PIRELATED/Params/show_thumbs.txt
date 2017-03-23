@@ -1,0 +1,4 @@
+cfg_related_show_thumbs_title = Show Product Image
+cfg_related_show_thumbs_desc = Show product images in module?
+cfg_related_show_thumbs_true = Enabled
+cfg_related_show_thumbs_disabled = Disabled

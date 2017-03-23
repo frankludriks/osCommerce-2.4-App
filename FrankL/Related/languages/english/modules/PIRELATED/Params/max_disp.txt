@@ -1,0 +1,2 @@
+cfg_related_max_display_title = Maximum number of Related Products to display. 
+cfg_related_max_display_desc = What is the maximum number of related products to display? (default = 9, 0 is unlimited)

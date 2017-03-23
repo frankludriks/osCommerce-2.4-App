@@ -1,0 +1,2 @@
+cfg_related_name_length_title = Product Name Length
+cfg_related_name_length_desc = Maximum number of characters of the product name to display (default = 36)

@@ -1,0 +1,5 @@
+cfg_related_insert_and_inherit_title = Insert and Inherit
+cfg_related_insert_and_inherit_desc = When set to True, clicking on Inherit will also Insert the product association. When False, Inherit works as before.
+
+cfg_related_insert_and_inherit_true = True
+cfg_related_insert_and_inherit_disabled = False

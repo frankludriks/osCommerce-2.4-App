@@ -1,0 +1,7 @@
+module_related_title = Related Products	
+module_related_short_title = Related Products
+
+module_related_legacy_admin_app_button = Manage App
+
+module_related_introduction = This module will show the related products on the product info page
+module_related_products_quantity = Qty Available:

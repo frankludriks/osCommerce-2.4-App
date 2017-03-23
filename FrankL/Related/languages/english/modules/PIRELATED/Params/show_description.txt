@@ -1,0 +1,4 @@
+cfg_related_show_description_title = Show Product Description
+cfg_related_show_description_desc = Show product description in module?
+cfg_related_show_description_true = Enabled
+cfg_related_show_description_disabled = Disabled
