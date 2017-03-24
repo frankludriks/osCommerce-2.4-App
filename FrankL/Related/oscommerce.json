@@ -21,8 +21,14 @@
             "product_info": {
                 "PIRELATED":    "Module\\Content\\PIRELATED"
             }
-        }
-},
+        },
+		"Hooks": {
+			"Admin/Products": {
+				"Action":	"Module\\Hooks\\Admin\\Products\\Action",
+				"Page":		"Module\\Hooks\\Admin\\Products\\PageTab"
+			}
+		}
+	},
     "routes": {
         "Admin":    "Sites\\Admin\\Pages\\Home",
         "Shop": {
