@@ -108,7 +108,6 @@ class PageTab implements \OSC\OM\Modules\HooksInterface
 							'</table></div>';
 					
 			}
-				//$info .= '  <div class="clearfix"></div>';
 				
 		//check for slaves
 				
@@ -177,8 +176,6 @@ class PageTab implements \OSC\OM\Modules\HooksInterface
 					
 			  }
 				
-				//$info .= '  <div class="clearfix"></div>';
-				
 
                 $related_button = HTML::button($this->app->getDef('button_manage'), 'fa fa-arrows-h', $this->app->link('Admin&products_id_view=' . $_GET['pID']), null, 'btn-info');
 				
@@ -194,17 +191,16 @@ class PageTab implements \OSC\OM\Modules\HooksInterface
 						'	</div>' .
 						'  </div>' .
 						'</div>';
-				
+						
+				$data = '<div id="section_relatedAppRelated_content" class="tab-pane oscom-m-top-15">' . addslashes($data) . '</div>';
+
                 $tab_title = addslashes($this->app->getDef('tab_title'));
 
                 $output = <<<EOD
-<div id="section_relatedAppRelated_content" class="tab-pane oscom-m-top-15">
-  {$data}
-</div>
-
 <script>
-$('#section_relatedAppRelated_content').appendTo('#productTabs .tab-content');
-$('#productTabs .nav-tabs').append('<li><a data-target="#section_relatedAppRelated_content" data-toggle="tab">{$tab_title}</a></li>');
+$('{$data}').insertAfter('div#section_images_content');
+
+$('#productTabs ul:first').append('<li><a data-target="#section_relatedAppRelated_content" data-toggle="tab">{$tab_title}</a></li>');
 </script>
 EOD;
 
